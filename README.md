@@ -30,4 +30,4 @@ Este projeto é licenciado sob a licença MIT. Consulte o arquivo LICENSE.md par
 
 ## Autor
 
-Este script foi criado por Jean.
+Este script foi criado por Saruman.
